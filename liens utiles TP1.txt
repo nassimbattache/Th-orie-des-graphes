@@ -1,0 +1,3 @@
+https://alainbusser.frama.io/NSI-IREMI-974/chap2_algo_graphes.html
+https://iut-info.univ-reims.fr/users/blanchard/ISN20181218/utilisation-de-la-bibliotheque-networkx.html
+http://www.info-mounier.fr/snt/reseaux_sociaux/rs_graphes.php
