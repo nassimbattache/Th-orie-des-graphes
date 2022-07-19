@@ -1,1 +1,1 @@
-# Th-orie-des-graphes
+# Theorie-des-graphes
